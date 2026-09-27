@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+.ruff_cache/
+coverage/
+.DS_Store
+.env.local
+/results/*
+!/results/.gitkeep
