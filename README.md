@@ -85,3 +85,8 @@ reports/meridian/           published results
 scripts/ + tests/           command-line entry points and tests
 results/                    ignored local run output
 ```
+
+## License
+
+Code is released under the [MIT License](LICENSE). The data room, tasks, criteria
+and published results are released under [CC BY 4.0](LICENSE-DATA).
