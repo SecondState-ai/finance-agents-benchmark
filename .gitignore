@@ -8,3 +8,4 @@ coverage/
 .env.local
 /results/*
 !/results/.gitkeep
+!/results/published/
